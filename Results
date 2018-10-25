@@ -1,0 +1,8 @@
+I used simple Excel to calculate lower and upper bounds around the mean for this distribution of PISA scores.
+
+Mean	 1,525 
+Std Dev	 44 
+
+With statistical significance of 5% (typically used), lower and upper bounds for normal distribution are 1454 and 1597 respectively.
+All countries except Singapore and HK fall outside this range and we can claim that they are statistically higher compared to other countries.
+So I wonder if using these scores for policy decisions would make huge sense.
